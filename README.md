@@ -19,7 +19,8 @@ Duplicate Removals, IF Function,Pivot Table, Charts and Slicer
 
 Below is the final dashboard :
 
-![Bike Sales Dashboard](https://github.com/widyaangely/Excel-Project_Bike-Sales-Dashboard/assets/149513267/00366015-bf29-4fa0-94d0-6d18b90cc1a2)
+![Coffee Sales Dashboard](https://github.com/widyaangely/Excel-Project_Bike-Sales-Dashboard/assets/149513267/3eeaa028-e1c3-4dca-b3fd-2a2045cb7728)
+
 
 
 
