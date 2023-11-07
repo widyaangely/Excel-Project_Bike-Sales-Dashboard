@@ -6,5 +6,6 @@ Skills used: Duplicate Removals, IF Function, Pivot Table, Charts and Slicer.
 
 Below is the final dashboard :
 
-![2](https://github.com/widyaangely/Excel-Project_Bike-Sales-Dashboard/assets/149513267/7729f5d6-b880-4f91-bfce-999083f849bc)
+![Bike Sales Dashboard](https://github.com/widyaangely/Excel-Project_Bike-Sales-Dashboard/assets/149513267/a3136270-3f35-4f8d-ac61-5a5085cc69b1)
+
 
